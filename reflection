@@ -1,0 +1,31 @@
+Reflection:
+1. What I understood from this program:
+For the most part ive understood the importance of loops and why some loops would work better in certain situations compare to others.
+Ive learned how to count numbers either going one by one or jumping multiple numbers.
+
+2. Difficulties I faced:
+ (Syntax, logic errors, infinite loops, casting issues, etc.)
+A difficulty ive faced was trying to remember how to properly write out/format each line based on what loop i was using because they are all a bit different and have different purposes.
+An issue that i had, but solved was finding out how to make the program show the actual steps instead of one final outcome.
+I was confused when you told use you wanted as to copy your examples but not copy them at the same time so i would write down the steps and try to do it on my own and see if it was the same
+with the examples given, if not id see why and do it the same.
+
+3. What I needed to search or review:
+ (Documentation, examples, lecture slides, etc.)
+
+I had to search multiple videos on all the loops (for, while, do, etc) just because its sometimes easier to understand when different people word it in certain ways.
+
+4. AI Usage (if any):
+ - Did you use AI tools? If yes, explain how.
+ - Did you verify the output?
+
+I used AI only to understand why the program was only giving me one outcome when i wanted it to show me the steps it was doing instead.
+for example it would print (10) instead of showing (5+5=10). I was able to understand when i realized that all i had to do was watch my curly brackets and
+where they were put.
+
+
+
+5. What I learned:
+
+Ive learned when to use each loop and when i shouldnt. I learned the difference between what a counter is and an accumulator. 
+Breaks was also one of the examples and I kind of understand but its still something that requires practice.
